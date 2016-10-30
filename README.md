@@ -1,7 +1,11 @@
 # LazyCat
 
-把几个工程打包做一个发布了，方便更新的维护。。
+把几个工程打包做一个MediaHub，方便更新的维护。。
+
+server在 https://fuzhuo.github.io
+
+server工程 https://github.com/fuzhuo/fuzhuo.github.com
+
+目前包括: youku, tumblr, neteaseMusic, lava, 未完成的ximalaya
 
 ![](https://fuzhuo.github.io/icons/lazycat.png)
-
-![](https://fuzhuo.github.io/icons/homepage.png)
