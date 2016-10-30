@@ -12,6 +12,8 @@ import TVMLKit
 @objc protocol JBExports : JSExport {
     static func httpPost(_ urlString: String,_ Referer: String,_ PostData: String) -> String
     static func httpGet(_ urlString: String,_ userAgent: String, _ Referer: String,_ Cookie: String) -> String
+    static func disableAutoSleep() -> Void
+    static func enableAutoSleep() -> Void
 }
 
 @objc class JSBridge : NSObject, JBExports {
@@ -68,5 +70,11 @@ import TVMLKit
             print("timeout when request \(urlString)")
         }
         return resultStr
+    }
+    static func disableAutoSleep() -> Void {
+        UIApplication.shared.isIdleTimerDisabled = true;
+    }
+    static func enableAutoSleep() -> Void {
+        UIApplication.shared.isIdleTimerDisabled = false;
     }
 }
