@@ -9,3 +9,5 @@ server工程 https://github.com/fuzhuo/fuzhuo.github.com
 目前包括: youku, tumblr, neteaseMusic, lava和未完成的ximalaya
 
 ![](https://fuzhuo.github.io/icons/lazycat.png)
+
+![](https://fuzhuo.github.io/icons/homepage.png)
