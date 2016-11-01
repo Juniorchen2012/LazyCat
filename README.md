@@ -11,3 +11,7 @@ server工程 https://github.com/fuzhuo/fuzhuo.github.com
 ![](https://fuzhuo.github.io/icons/lazycat.png)
 
 ![](https://fuzhuo.github.io/icons/homepage.png)
+
+哦哦哦
+
+![](https://fuzhuo.github.io/icons/qrcode.jpg)
