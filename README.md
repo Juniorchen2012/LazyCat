@@ -14,4 +14,4 @@ server工程 https://github.com/fuzhuo/fuzhuo.github.com
 
 哦哦哦
 
-![](https://fuzhuo.github.io/icons/qrcode.jpg)
+<img src="https://fuzhuo.github.io/icons/qrcode.jpg" width="256" />
